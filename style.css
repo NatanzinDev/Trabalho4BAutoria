@@ -18,9 +18,14 @@ h2{
 
 .contato{
     margin-top: 50px;
+    padding: 30px;
 }
 
 .entrec{
     margin-bottom: 20px;
     text-align: left;
+}
+
+.footer{
+    margin-top: 30px;
 }
